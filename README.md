@@ -5,6 +5,7 @@ The dataset can be found at the following url:
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 The following methodologies were used to determine whether a patient has diabetes or not based on the available features:
+
 ->Deep Learning(DL)
 
 ->K-Nearest Neighbours(KNN)
